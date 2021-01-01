@@ -1,5 +1,5 @@
 <?php
-//	Last Change 2020-01-01
+//	Last Change 2021-01-01
 
 if(!defined('DOKU_INC')) {
     define ('DOKU_INC', realpath(dirname(__FILE__).'/../../').'/');
