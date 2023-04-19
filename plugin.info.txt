@@ -2,7 +2,7 @@
 base     lastpages
 author   Martin Lindner
 email    martin@andev.de
-date     2021-01-01
+date     2023-04-19
 name     LastPages Plugin
-desc     Show latest pages as a list if you add ~~LAST10~~ / ~~LAST5~~ / ~~LIST10~~ / ~~LIST5~~.
+desc     Show latest pages as a list if you add ~~LASTPAGES~~.
 url      https://www.dokuwiki.org/plugin:lastpages
